@@ -139,7 +139,9 @@ zlib                      1.2.11            h36c2ea0_1011    http://mirrors.tuna
 
 
 `下载预训练模型 pretrained models和`scare_coeur序列。例如，将它们解压缩到当前文件夹，以便它们低于 `release/models/outdoor` 。
-
+```
+python run_lfnet.py --in_dir=samples --out_dir=outputs     
+```
 
 
 
